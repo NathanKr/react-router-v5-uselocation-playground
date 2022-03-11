@@ -4,7 +4,7 @@ Pass parameters including object to a screen component in react-router v5.
 <h2>Points of interest</h2>
 <ul>
 <li>Data is passed via Redirect component and consumed via useLocation custom hook</li>
-<li>Typescript is used</li>
+<li>Typescript is used (not mandatory)</li>
 </ul>
 
 

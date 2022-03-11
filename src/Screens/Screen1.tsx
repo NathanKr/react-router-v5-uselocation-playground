@@ -9,6 +9,7 @@ const Screen1 = () => {
       <Redirect
         to={{
           pathname: "/Screen2",
+          // -- this property is called state but its just a name
           state: { ar : [1,2,3] }
         }}
       />
